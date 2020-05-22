@@ -1,6 +1,6 @@
 # Portifólio de Fotos
 
-> Um projeto simples para os alunos do curso da Udemy.
+> Um projeto simples para os alunos do curso GitHub da Udemy.
 
 Big Picture by HTML5 UP
 
